@@ -1,2 +1,0 @@
-# ContactSite
- Rafael Altamar
